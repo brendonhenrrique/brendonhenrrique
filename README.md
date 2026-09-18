@@ -8,9 +8,9 @@ Por aqui, você vai encontrar os repositórios onde dou vida a tudo isso. Estou 
 
 Meu foco agora é dominar novas tecnologias, tirar projetos do papel e me preparar para desafios reais. Fique à vontade para explorar os repositórios, acompanhar minha evolução ou trocar uma ideia. O aprendizado por aqui nunca para!
 
---
+---
 
-<h1 align="center">🤖 Linguagens e Tecnologias</h1>
+<h2 align="center">🤖 Linguagens e Tecnologias</h2>
 
 <div align="center">
   <img 
