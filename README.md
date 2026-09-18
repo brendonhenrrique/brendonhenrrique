@@ -1,6 +1,6 @@
 <h1 align="center">Brendon Henrique</h1>
 
-👨🏽‍💻**`Desenvolvedor Front-End`**
+**`Desenvolvedor Front-End`**
 
 Eu tenho 27 anos e sou formado em Análise e Desenvolvimento de Sistemas, acredito muito no poder da tecnologia para transformar e facilitar processos reais.
 
