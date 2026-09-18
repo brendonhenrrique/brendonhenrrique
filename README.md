@@ -10,7 +10,7 @@ Meu foco agora é dominar novas tecnologias, tirar projetos do papel e me prepar
 
 ---
 
-<h2 align="center">🤖 Linguagens e Tecnologias</h2>
+<h1 align="center">🤖 Linguagens e Tecnologias</h1>
 
 <div align="center">
   <img 
